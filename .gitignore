@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code
+.claude/
+
+# Logs
+logs/
+*.log
+
+# Large files
+output.avi
+
+# Model files (可选，如果想保留请删除这行)
+*.pkl
+
+# TensorFlow
+*.tfevents.*
+
+# OS
+.DS_Store
+Thumbs.db
